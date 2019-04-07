@@ -19,7 +19,7 @@ $page = isset($_GET["page"]) ? $_GET["page"] : 1;
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Welcome to Doodle</title>
+	<title>Welcome to KHOJ</title>
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
