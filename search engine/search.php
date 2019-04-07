@@ -36,8 +36,8 @@ $page = isset($_GET["page"]) ? $_GET["page"] : 1;
 			<div class="headerContent">
 
 				<div class="logoContainer">
-					<a href="index.php">
-						<img src="assets/images/doodleLogo.png">
+					<a href="index.php" class="imageIcon">
+						<img src="assets/images/khoj.jpg">
 					</a>
 				</div>
 
@@ -124,7 +124,7 @@ $page = isset($_GET["page"]) ? $_GET["page"] : 1;
 
 
 				<div class="pageNumberContainer">
-					<img src="assets/images/pageStart.png">
+					<img src="assets/images/khoj.jpg">
 				</div>
 
 				<?php
@@ -147,7 +147,7 @@ $page = isset($_GET["page"]) ? $_GET["page"] : 1;
 
 					if($currentPage == $page) {
 						echo "<div class='pageNumberContainer'>
-								<img src='assets/images/pageSelected.png'>
+							
 								<span class='pageNumber'>$currentPage</span>
 							</div>";
 					}
@@ -173,7 +173,7 @@ $page = isset($_GET["page"]) ? $_GET["page"] : 1;
 				?>
 
 				<div class="pageNumberContainer">
-					<img src="assets/images/pageEnd.png">
+					<!--<img src="assets/images/khoj.jpg">-->
 				</div>
 
 
