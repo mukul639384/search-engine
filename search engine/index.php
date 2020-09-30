@@ -2,7 +2,7 @@
 <html>
 <head>
 	
-	<title>Khoj</title>
+	<title>Khoj/Search Engine</title>
 	<meta name="description" content="Search the web for sites and images.">
 	<meta name="keywords" content="Search engine, doodle, websites">
 	<meta name="author" content="Reece Kenney">
